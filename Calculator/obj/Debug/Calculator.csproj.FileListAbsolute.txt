@@ -1,0 +1,5 @@
+/Users/dev/Documents/C# grunder/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/Users/dev/Documents/C# grunder/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/dev/Documents/C# grunder/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/dev/Documents/C# grunder/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/dev/Documents/C# grunder/Calculator/Calculator/obj/Debug/Calculator.pdb
